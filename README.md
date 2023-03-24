@@ -5,7 +5,6 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/githuba-projemizin-eklen
 
 ## Installation
 Öncelikle projeyi clonelayın.
+
 git clone https://github.com/zeynepseckinli/kodluyoruzilkrepo
 
-
-Deneme
